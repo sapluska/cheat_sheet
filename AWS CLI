@@ -1,0 +1,13 @@
+1. Install AWS CLI
+pip install awscli
+
+2. Configure user
+aws configure --profile <user>
+
+#Enter Access Key ID
+#Enter Secret Access Key
+#Default region: us-east-1
+#Default output format [None]:
+
+3. View
+aws s3 ls --profile <user>
