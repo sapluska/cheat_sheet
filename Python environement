@@ -13,3 +13,6 @@ conda activate <environment>
 4. Deactivate
 deactivate
 
+5. Delete
+conda remove --name <environment> --all
+
