@@ -1,0 +1,15 @@
+CONDA
+=====
+
+1. Create
+conda create --name <environment_name> python=3.9
+
+2. View
+conda info --envs  
+
+3. Activate
+conda activate <environment>
+
+4. Deactivate
+deactivate
+
